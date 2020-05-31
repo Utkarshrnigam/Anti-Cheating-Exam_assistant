@@ -18,7 +18,7 @@
 
 
 ### Output
-(output.png)
+![](output.png)
 
 ### How to run demo.
 - Create final_datset/test folder and save 4 videos (which are to be evaluated) inside it .
