@@ -19,7 +19,7 @@
 
 ### Output
 
-[](output.png)
+[Output](output.png)
 
 ### How to run demo.
 - Save 4 of videos (which are to be evaluated) inside final_datset/test folder.
