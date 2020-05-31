@@ -22,8 +22,8 @@
 [Output](output.png)
 
 ### How to run demo.
-- Save 4 of videos (which are to be evaluated) inside final_datset/test folder.
-- open demo notebook and run all cell.
+- Create final_datset/test folder and save 4 videos (which are to be evaluated) inside it .
+- Open demo notebook and run all cell.
 - For testing using web cam uncomment second last cell and run it.
 - To see the live graph run the suspecious_level_plot.py file from the cmd after commpleting above steps.
 
